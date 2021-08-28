@@ -1,4 +1,4 @@
-import urllib.parse, urllib.request, urllib.error
+import urllib.request, urllib.error
 from bs4 import BeautifulSoup
 import ssl
 import sys
